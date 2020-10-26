@@ -1,3 +1,9 @@
+Original repository: https://github.com/BVLC/caffe
+New layers: 
+- loss_weight_layer
+- multi_label_accuracy_layer
+- weighted_sigmoid_cross_entropy_loss_layer
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
